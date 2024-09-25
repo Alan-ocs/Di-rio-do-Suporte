@@ -18,7 +18,7 @@ O que vamos precisar?
 
 Então, tens ai um notebook antigo? um desktop encostado? Precisamos de uma maquina para subir o remedio Proxmox, não lembro onde eu ouvi isso mas faz sentido, parece maior nome de remedio, lol. Mas, fuciona bem! stick with me and you'll shine!
 
-O Proxmox é um Hypervisor tipo 1, e te falar, curto bastante fazer meus labs com ele, já tentei migrar para outros, mas ele é leve e funcional e o melhor, 0800, freezão! Ah, quase esqueço, para funcionar, seu notebook antigo precisa ter suporte a virtualização, acho que um computador com 7 a 9 anos de uso, dependendo de alguns fatores, pode ser que já tenha, mas, vale a tentativa, se não tiver um oldbook ou computador, vou pensar depois em uma forma diferente de fazer isso, e te falar que ja to com uma ideia doida de fazer um cluster com oldphones, será que rola?
+O Proxmox é um Hypervisor tipo 1, e te falar, curto bastante fazer meus labs com ele, já tentei migrar para outros, mas ele é leve e funcional e o melhor, 0800, freezão! Ah, quase esqueço, para funcionar, seu notebook antigo precisa ter suporte a virtualização, acho que um computador com X anos de uso, dependendo de alguns fatores, pode ser que já tenha, mas, vale a tentativa, se não tiver um oldbook ou computador, vou pensar depois em uma forma diferente de fazer isso, e te falar que ja to com uma ideia doida de fazer um cluster com oldphones, será que rola?
 
 Continuando, Baixa a ISO do Proxmox, e tambem baixa o Ventoy, roda o executavel do ventoy com seu pendrive conectado e olha bem antes de clicar em formatar, vai apagar tudo hein! Ventoy aplicado, só copiar e colar a ISO do Proxmox no seu pendrive e vamos para o OldBook.
 
